@@ -1,0 +1,16 @@
+
+.styleInput {
+    padding: 10px;
+    font-size: 29px;
+    border-width: 1px;
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #000000;
+    border-style: solid;
+    border-radius: 3px;
+    box-shadow: 1px 1px 5px rgba(244,244,244,.75);
+    text-shadow: 0px 0px 0px rgba(66,66,66,.75);
+}
+.styleInput:focus {
+    outline:none;
+}
